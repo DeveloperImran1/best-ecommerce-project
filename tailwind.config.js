@@ -20,6 +20,7 @@ export default {
         "gray-7a": "#7A7A7A",
         "gray-ad": "#ADADAD",
         "gray-77": "#777777",
+        "gray-b6": "#B6B6B6",
         "green-64": "#64B496",
         "green-3b": "#3BB77E",
         "orange-f5": "#F53E32",
@@ -27,6 +28,9 @@ export default {
         "border-color": "#E1DFDF",
         "footer-bg": "#F7F7F8",
       },
+      // backgroundImage: {
+      //   "hero-background": "url('/images/hero-background.jpg')",
+      // },
     },
   },
   plugins: [],
